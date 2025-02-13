@@ -75,7 +75,6 @@
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
 <br>
-
 <br>
 
 ## 🎒 Образование
