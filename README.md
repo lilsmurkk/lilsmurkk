@@ -86,6 +86,7 @@
 
 ## 🎒 Образование
 [<img src="/Diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/lilsmurkk/lilsmurkk/refs/heads/main/Diplom.png)
+[<img src="DiplomRus.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/lilsmurkk/lilsmurkk/refs/heads/main/DiplomRus.png)
 
 <br>
 <br>
