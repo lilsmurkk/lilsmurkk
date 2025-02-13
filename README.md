@@ -79,7 +79,7 @@
 
 ## 🪴 Практика и стажировка
 [<img src="Certificate.jpg" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/lilsmurkk/lilsmurkk/refs/heads/main/Certificate.jpg)
-[<img src="Certificate.jpg" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/lilsmurkk/lilsmurkk/refs/heads/main/Certificate.jpg)
+[<img src="CertificateRus.jpg" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/lilsmurkk/lilsmurkk/refs/heads/main/CertificateRus.jpg)
 
 
 <br>
