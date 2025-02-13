@@ -77,16 +77,12 @@
 
 <br>
 
-## 🪴 Практика и стажировка
-[<img src="Certificate.jpg" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/lilsmurkk/lilsmurkk/refs/heads/main/Certificate.jpg)
-[<img src="CertificateRus.jpg" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/lilsmurkk/lilsmurkk/refs/heads/main/CertificateRus.jpg)
-
 
 <br>
 
 ## 🎒 Образование
-[<img src="/Diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/lilsmurkk/lilsmurkk/refs/heads/main/Diplom.png)
 [<img src="DiplomRus.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/lilsmurkk/lilsmurkk/refs/heads/main/DiplomRus.png)
+[<img src="CertificateRus.jpg" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/lilsmurkk/lilsmurkk/refs/heads/main/CertificateRus.jpg)
 
 <br>
 <br>
